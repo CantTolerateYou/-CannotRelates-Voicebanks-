@@ -1,0 +1,2 @@
+name=Tracy's Mommy Mearest
+image=Mommy Mearest.bmp
